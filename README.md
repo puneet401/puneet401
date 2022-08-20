@@ -1,4 +1,4 @@
-#### Hello there, This repository contains Security Stuff. 
+#### Hello there, This page contains Security Stuff. 
 ###### Here I share my thoughts on security topics and best practices in IT security.
 
 
