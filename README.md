@@ -1,4 +1,4 @@
-#### Hello there, This page contains Security Stuff. 
+#### Hello there, I'm Puneet 
 ###### Here I share my thoughts on security topics and best practices in IT security.
 
 
