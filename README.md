@@ -1,4 +1,4 @@
-#### Hello there, I'm Puneet 
+### Hello there, I'm Puneet 
 ###### My thoughts and opinions on IT security are contained in the repositories below.
 
 
